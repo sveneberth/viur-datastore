@@ -6,3 +6,6 @@ dist
 src/viur/datastore/transport.cpp
 src/viur/datastore/*.so
 *.egg-info
+.env
+htmlcov/
+.coverage

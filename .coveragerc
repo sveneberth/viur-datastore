@@ -1,0 +1,11 @@
+# .coveragerc to control coverage.py
+[run]
+branch = True
+source =
+    ./src/viur/datastore
+
+[report]
+ignore_errors = True
+
+[html]
+title = ViUR-Datastore Coverage Report
